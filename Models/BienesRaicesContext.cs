@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace API_BienesRaices.Models;
+namespace API_PROPIEDADES.Models;
 
 public partial class BienesRaicesContext : DbContext
 {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace API_BienesRaices.Models;
+namespace API_PROPIEDADES.Models;
 
 public partial class Property
 {
